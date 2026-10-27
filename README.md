@@ -32,10 +32,4 @@ Nesta etapa inicial, explorei a estrutura, administração e segurança do siste
 * Aplicação prática do conceito de **IAM (Identity and Access Management)** para mitigar riscos de elevação de privilégios.
 
 ---
-
-### Próximos Passos na Trilha:
-* [ ] Execução e mitigação de ataques de Brute Force (Kali Linux + Medusa).
-* [ ] Desenvolvimento de proteções e automação de segurança com Python.
-
----
- *Conecte-se comigo no [LinkedIn](https://linkedin.com)!*
+ *Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/lucas-vasconcelos-sec/)!*
